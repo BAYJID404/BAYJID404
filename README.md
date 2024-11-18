@@ -7,9 +7,9 @@
 </h3>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush0249&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayush0249&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0249&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bayjid0249&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bayjid0249&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bayjid0249&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Best Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
